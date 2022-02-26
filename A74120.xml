@@ -1,0 +1,359 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A diary of the siege of Colchester by the forces under the command of his excellency the Lord General Fairfax.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74120</idno>
+            <idno type="STC">Thomason 669.f.13[6]</idno>
+            <idno type="STC">ESTC R210875</idno>
+            <idno type="EEBO-CITATION">99869628</idno>
+            <idno type="PROQUEST">99869628</idno>
+            <idno type="VID">162901</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74120)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162901)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f13[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A diary of the siege of Colchester by the forces under the command of his excellency the Lord General Fairfax.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint place and date inferred from other copies of the diary reported in Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fairfax, Thomas Fairfax, --  Baron, 1612-1671 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Personal narratives --  Early works to 1800.</term>
+               <term>Colchester (England) --  History --  Siege, 1648 --  Personal narratives --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="diary">
+            <pb facs="tcp:162901:1" rendition="simple:additions"/>
+            <head>A DIARY of the Siege of <hi>Colcheſter</hi> by the Forces under the Command of his Excellency the Lord Generall FAIRFAX.</head>
+            <div n="June 13" type="date">
+               <opener>
+                  <dateline>
+                     <date>Tueſday <hi>June</hi> 13.</date>
+                  </dateline>
+               </opener>
+               <p>
+                  <seg rend="decorInit">H</seg>IS Excellencie the Lord <hi>Fairfax</hi> engaged in the fields before <hi>Colcheſter,</hi> neer St. <hi>Maries,</hi> the Lord <hi>Gorings</hi> Forces, together with the Forces under Com<g ref="char:EOLhyphen"/>mand of the Lord <hi>Capell,</hi> and Sir <hi>Charls Lucas,</hi> and beat them into the Town; Colonell Sir <hi>William Leyton,</hi> and between 4 and 500 of the Enemy were ta<g ref="char:EOLhyphen"/>ken priſoners, (200 of them being of Colonel <hi>Farre</hi> (the Apoſtate) his Re<g ref="char:EOLhyphen"/>giment,) and in purſuit of the reſt, Col. <hi>Barkeſtead,</hi> with his Regiment, en<g ref="char:EOLhyphen"/>tred the Suburbs as far as head-Gate, and entred the Gate, but being over<g ref="char:EOLhyphen"/>powered there, and out of the Church yard, the Enemy Barracadoed the Gate, (leaving neer 500 men to our mercy;) yet notwithſtanding thoſe foot, and Col. <hi>Needhams</hi> fought many houres after, in hopes to gain the Town at that place, but could not, the enemy making good reſiſtance; there were ſlain of the Enemies part, Colonel Sir <hi>William Campion,</hi> Colonel <hi>Cooke,</hi> and divers Officers of quality, and about 80 private ſouldiers; Colonel <hi>Panton,</hi> Capt. <hi>Brunkerd, Clifford, Worſop,</hi> and divers other Offi<g ref="char:EOLhyphen"/>cers wounded. On the Lord <hi>Fairfax</hi> ſide, Col. <hi>Needham,</hi> Capt. <hi>Lawrence</hi> of Horſe, Capt. <hi>Cox</hi> of foot, and neer 100 private ſouldiers and inferrior Officers were ſlaine: when we entered the Suburbs, the Lord <hi>Goring</hi> was Summoned, but returned an Anſwer not becomming a Gentleman: The Enemies word at the Fight was <hi>Charles,</hi> the ground they fought upon, <hi>Maries:</hi> Ours, <hi>God's our help.</hi>
+               </p>
+               <div type="part">
+                  <head>The Forces under the Command of his Excellencie the Lord <hi>Fairfax</hi> engaged in the Fight before <hi>Colcheſter,</hi> June 13.1648.</head>
+                  <head type="sub">As alſo the names of the chief Commanders and perſons of Quality of the Lord <hi>Gorings</hi> Forces engaged at that Fight.</head>
+                  <list>
+                     <item>
+                        <list>
+                           <head>His Excellencies forces engaged in that Fight.</head>
+                           <item>Part of His Excellencies Regiment of Horſe, being four Troops, Com<g ref="char:EOLhyphen"/>manded by Major <hi>Desbrough.</hi>
+                           </item>
+                           <item>Of Colonel <hi>whaleys</hi> Regiment, ſix Troops, Commanded by himſelf.</item>
+                           <item>Of Colonel <hi>Fleetwoods,</hi> five Troops, Commanded by Major <hi>Coleman.</hi>
+                           </item>
+                           <item>Three troops of Commiſſary General <hi>Iretons,</hi> Comman<g ref="char:EOLhyphen"/>ded by Captain <hi>Cecill.</hi>
+                           </item>
+                           <item>Two Troops of Dragoons, Commanded by Cap<g ref="char:EOLhyphen"/>tain <hi>Freeman</hi> and Captain <hi>Barrington.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Of Foot.</head>
+                           <item>Col. <hi>Barkſteeds</hi> Regiment Commanded by himſelf, conſiſting of ten com<g ref="char:EOLhyphen"/>panies, about 800 men.</item>
+                           <item>Col. <hi>Needhams</hi> Regiment, lately the Tower Regi<g ref="char:EOLhyphen"/>ment, Commanded by Col. <hi>Needham,</hi> being ſeven Companies, and about 400 men.</item>
+                           <item>Part of Colonel <hi>Inglesbies</hi> Regiment, of four Companies, Com<g ref="char:EOLhyphen"/>manded by Capt. <hi>Grimes,</hi> 320 men.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Of the <hi>Eſſex</hi> Forces.</head>
+                           <item>Col. <hi>Harlackendens</hi> Regiment, of four Troops of horſe, Commanded by major <hi>Robert Sparrow;</hi>
+                           </item>
+                           <item>and Capt. <hi>Turners</hi> Troop of Dragoons.</item>
+                           <item>Sir <hi>Thomas Hunniwoods</hi> Regiment of Foot</item>
+                           <item>Colonell <hi>Cooks</hi> Regiment of Foot,both which ſaid Regiments conſiſted of Auxiliaries, and Trained bands.</item>
+                           <item>The County Forces of <hi>Eſſex</hi> left to ſecure <hi>Chelmsford</hi> and <hi>Maulden,</hi> two conſiderable Paſſes, leſt more Forces ſhould reſort from <hi>London</hi> to the Lord <hi>Goring.</hi>
+                           </item>
+                           <item>Colonel <hi>Henry Mildmaies</hi> Regiment of Horſe, and two Troops of Dra<g ref="char:EOLhyphen"/>goons.</item>
+                           <item>Part of Colonel <hi>Carew Mildmaies</hi> Regiment of Foot, Commanded by Major <hi>Bard.</hi>
+                           </item>
+                           <item>The <hi>Suffolk</hi> Forces, who made good the Paſſes over the River at <hi>Nailand, Stratford,</hi> and <hi>Cadaway,</hi> leſt the Enemy ſhould eſcape towards <hi>Suffolk</hi> and <hi>Norfolk,</hi> were under the Command of Captain <hi>Fiſher,</hi> Captain <hi>Brandling,</hi> and Captain <hi>Sparrow,</hi> beſides the aſſiſtance which Captain <hi>Ball,</hi> Captain <hi>Cox,</hi> and the reſt of the Sea Commanders gave to ſecure the River.</item>
+                           <item>The <hi>Suffolk</hi> Forces that. came afterwards to help beſiege this Town. Colonel <hi>Gourdons</hi> Regiment of horſe.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Of Foot Regiments.</head>
+                           <item>Colonell Sir <hi>Thomas Barnardiſtons,</hi>
+                           </item>
+                           <item>Colonell <hi>Fethergils,</hi>
+                           </item>
+                           <item>Colonell <hi>Har<g ref="char:EOLhyphen"/>veys,</hi>
+                           </item>
+                           <item>Colonell <hi>Bloiſes.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Of the Army that came up after the fight.</head>
+                           <item>Colonell <hi>Scroop,</hi> with three Troops of horſe of his Regiment.</item>
+                           <item>The Lord <hi>Gorings</hi> Forces engaged in that Fight.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Of Horſe.</head>
+                           <item>Lord <hi>Gorings</hi> Regiment.</item>
+                           <item>Lord <hi>Capels</hi> Re<g ref="char:EOLhyphen"/>giment.</item>
+                           <item>Sir <hi>William Comptons.</hi>
+                           </item>
+                           <item>Colonel <hi>Slings<g ref="char:EOLhyphen"/>bies.</hi>
+                           </item>
+                           <item>Colonel Sir <hi>Bernard Gaſcoignes.</hi>
+                           </item>
+                           <item>Colo<g ref="char:EOLhyphen"/>nell <hi>Hamonds.</hi>
+                           </item>
+                           <item>Colonel <hi>Culpeppers.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Of Foot.</head>
+                           <item>Sir <hi>Charles Lucas</hi> his Regiment.</item>
+                           <item>Sir <hi>George Liſl<gap reason="illegible" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>s</hi> Regiment.</item>
+                           <item>Colonel <hi>Tilleys</hi> Regiment.</item>
+                           <item>Colonel <hi>Tewk</hi> his Regiment.</item>
+                           <item>Colonel <hi>Farrs</hi> Regiment.</item>
+                           <item>Colonel <hi>Gil<g ref="char:EOLhyphen"/>burds</hi> Regiment.</item>
+                           <item>Colonel Sir <hi>William Cam<g ref="char:EOLhyphen"/>pions</hi> Regiment, himſelf ſlain.</item>
+                           <item>Colonel <hi>Burds</hi> Regiment.</item>
+                           <item>Colonel <hi>Bowmans</hi> Re<g ref="char:EOLhyphen"/>giment.</item>
+                           <item>Colonel <hi>Cheſters</hi> Regiment.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Colonels who had no Command of Re<g ref="char:EOLhyphen"/>giments, yet aſſiſting at that Fight.</head>
+                           <item>Earl <hi>Louborough,</hi>
+                           </item>
+                           <item>Lord <hi>Haſtings,</hi>
+                           </item>
+                           <item>Sir <hi>Wil<g ref="char:EOLhyphen"/>liam Leyton,</hi> Colonel, taken Priſoner, and wounded,</item>
+                           <item>Colonel Sir <hi>Richard Haſtings,</hi>
+                           </item>
+                           <item>Co<g ref="char:EOLhyphen"/>lonel <hi>Iohn Heath,</hi>
+                           </item>
+                           <item>Colonel <hi>Lee</hi> of <hi>Kent,</hi>
+                           </item>
+                           <item>Co<g ref="char:EOLhyphen"/>lonel <hi>Panton</hi> wounded,</item>
+                           <item>Colonel <hi>Cook</hi> ſlain,</item>
+                           <item>Colonel Sir <hi>Hugh Orelie,</hi>
+                           </item>
+                           <item>Quarterma<g ref="char:EOLhyphen"/>ſter Gen. Col. <hi>William Maxey,</hi>
+                           </item>
+                           <item>Col. <hi>Pilman,</hi>
+                           </item>
+                           <item>Col. <hi>Beal,</hi>
+                           </item>
+                           <item>Lieu. Col <hi>Hatch</hi> ſlaine,</item>
+                           <item>Major <hi>Jam<g ref="char:EOLhyphen"/>mot,</hi> Adjutant Gen, beſides divers Lieute<g ref="char:EOLhyphen"/>nant Colonels and Majors who were aſ<g ref="char:EOLhyphen"/>ſiſtants, but had no Commands.</item>
+                        </list>
+                     </item>
+                  </list>
+               </div>
+            </div>
+            <div n="June 14" type="date">
+               <opener>
+                  <dateline>
+                     <date>Wedneſday 14.</date>
+                  </dateline>
+               </opener>
+               <p>His Excellency perceiving the Enemy would not ſtand the field, reſolved to ſit down before the Town in order to aſiege (being too few to ſtorm it) having not then, nor when be firſt enga<g ref="char:EOLhyphen"/>ged, 1500 old foot, and but about 1500 horſe, and two Troops of Dragoons, (beſides the two Regi<g ref="char:EOLhyphen"/>ments of the Trained Bands, under Col. Sir <hi>Thomas HunniWood,</hi> and Col. <hi>Cooke,</hi>) the Enemy at that time being about 6000 Horſe and Foot in Town, and the Town and Suburbs larger in compaſſe then <hi>Oxford,</hi> and would require 5000 men to beſiege it; appointed <hi>Lexden</hi> in the road to <hi>London</hi> for the Head-Quar<g ref="char:EOLhyphen"/>ter, where the greateſt body was to lie, to prevent more aid for coming from <hi>London</hi> to the Lord <hi>Goring,</hi> and kept ſtrong Guards of Horſe on <hi>Cambridge</hi> road, on the other ſide the River, that they might not e<g ref="char:EOLhyphen"/>ſcape Northward, to joyn with Sir <hi>Marmaduke Langdale,</hi> leaving no place open to them, but towards the Sea, where they could not go far; and the ſame day his Excellency ſent a party of Horſe to ſecure <hi>Merſey</hi> Iſland, to prevent the Revolted ſhips from comming Into the River to relieve the Town; the Enemy ſent Colonell <hi>Tuke</hi> with a ſtrong party an hour after, but came too late.</p>
+            </div>
+            <div n="June 15" type="date">
+               <opener>
+                  <dateline>
+                     <date>Thurſday 15.</date>
+                  </dateline>
+               </opener>
+               <p>The Enemies Canon from the Royall Fort at St. <hi>Maries,</hi> plaid very hard, killed ſeverall of our men, as they did the day before; ſome, as they were raiſing the firſt Work; called Fort <hi>Eſſex,</hi> others as they were ſtragling in the field.</p>
+            </div>
+            <div n="June 16" type="date">
+               <opener>
+                  <dateline>
+                     <date>Friday 16.</date>
+                  </dateline>
+               </opener>
+               <p>Nothing of importance happened, but three of Captain <hi>Canons</hi> men killed with a Canon Bullet.</p>
+            </div>
+            <div n="June 17" type="date">
+               <opener>
+                  <dateline>
+                     <date>Saturday 17.</date>
+                  </dateline>
+               </opener>
+               <p>A Trumpet ſent in about the Exchange of priſoners, and this day the Enemy got proviſi<g ref="char:EOLhyphen"/>ons out of <hi>Tendering</hi> Hundred, which we could not prevent till the <hi>Suffolk</hi> Forces marched to our aſſiſtance.</p>
+            </div>
+            <div n="June 18" type="date">
+               <opener>
+                  <dateline>
+                     <date>Sunday 18.</date>
+                  </dateline>
+               </opener>
+               <p>We took two of their Frigots, the one with ten, the other with eleven Guns. And this day Colonell <hi>Ewers</hi> came up with ſix Companies from <hi>Chepſtow</hi> Caſtle: The Eſſex foot under Sir <hi>Thomas Hunniwood</hi> and Colonell <hi>Cooke</hi> endured many Canon ſhot this day, and were very ready upon an Alarm.</p>
+            </div>
+            <div n="June 19" type="date">
+               <opener>
+                  <dateline>
+                     <date>Munday 19.</date>
+                  </dateline>
+               </opener>
+               <p>The party of Horſe ſent from the Leaguer under Major <hi>Sparrow</hi> and Capt. <hi>Walling<g ref="char:EOLhyphen"/>ton,</hi> engaged the Enemy at <hi>Linton,</hi> (coming to aſſiſt <hi>Goring,</hi>) where Major <hi>Muſchampe</hi> and others of the Enemies ſide were ſlaine, and Maſter <hi>Reynolds,</hi> and others taken priſoners, the reſt (about 500.) diſperſt. This day a Trumpet came from the Lord <hi>Goring,</hi> pretending to diſre a Treaty of Peace.</p>
+            </div>
+            <div n="June20" type="date">
+               <opener>
+                  <dateline>
+                     <date>Tueſday 20.</date>
+                  </dateline>
+               </opener>
+               <p>Anſwer returned, if a generall Peace was intended, that then it was proper for the Par<g ref="char:EOLhyphen"/>liament to determine of that, and offered them in that anſwer Conditions, <hi>viz.</hi> The Gentlemen and Offi<g ref="char:EOLhyphen"/>cers to go beyond ſea, and the ſouldiers to go home, without prejudice.</p>
+            </div>
+            <div n="June 21" type="date">
+               <opener>
+                  <dateline>
+                     <date>Wedneſday 21.</date>
+                  </dateline>
+               </opener>
+               <p>The Enemy returned a ſcornfull anſwer, moving for a free-trade for the Townſ<g ref="char:EOLhyphen"/>men.</p>
+            </div>
+            <div n="June 22" type="date">
+               <opener>
+                  <dateline>
+                     <date>Thurſday 22.</date>
+                  </dateline>
+               </opener>
+               <p>A ſmall party of the enemy ſallied out to view a new Work (afterwards called Col. <hi>Ewers</hi> Fort) but were inſtantly beaten in by Muſqueteers. Their Canon killed two men of ours. That day the Lord <hi>Goring</hi> ſent a ſummons to the <hi>Suffolk</hi> Forces at <hi>Cattaway</hi>-Bridge, Commanded by Capt. <hi>Fiſher,</hi> and Capt. <hi>Brandling,</hi> to joyne with him, which they refuſed, expreſſing their Reſolution ſtill to adhere to the Parliament and Army.</p>
+            </div>
+            <div n="June 23" type="date">
+               <opener>
+                  <dateline>
+                     <date>Friday 23.</date>
+                  </dateline>
+               </opener>
+               <p>The Guns began this day to play from our new Battery, which much annoyed the Enemy at north bridge. His Excellency ſent a Reply concerning his former offer, offering the ſame Condtions a<g ref="char:EOLhyphen"/>gain to all in the Towne, Except the Lord <hi>Goring,</hi> Lord <hi>Capell,</hi> and Sir <hi>Charles Lucas.</hi>
+               </p>
+            </div>
+            <div n="June 24" type="date">
+               <opener>
+                  <dateline>
+                     <date>Saturday 24.</date>
+                  </dateline>
+               </opener>
+               <p>One of the Enemies Canoneers was killed. This day the <hi>Suffolk</hi> Forces advanced out of their owne County, and took up their quarters upon Mile-end, over againſt the North-gate, being about 2500. horſe and foot, leaving a guard at <hi>Cattaway,</hi> and <hi>Nayland,</hi> to ſecure thoſe paſſes.</p>
+            </div>
+            <div n="June 25" type="date">
+               <opener>
+                  <dateline>
+                     <date>Sunday 25.</date>
+                  </dateline>
+               </opener>
+               <p>Nothing of importance.</p>
+            </div>
+            <div n="June 26" type="date">
+               <opener>
+                  <dateline>
+                     <date>Munday 26.</date>
+                  </dateline>
+               </opener>
+               <p>A party of Col. <hi>Barkeſteads</hi> Foot (the Enemy being drawne out neere the Almeſ-houſe) beate them from the Hedges, and from their Court of guard, fired the guard houſe, and brought away the houre glaſſe by which they ſtood Centry.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
